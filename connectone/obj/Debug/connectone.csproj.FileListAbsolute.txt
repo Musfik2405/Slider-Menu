@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\connectone\bin\Debug\connectone.exe.config
+C:\Users\User\source\repos\connectone\bin\Debug\connectone.exe
+C:\Users\User\source\repos\connectone\bin\Debug\connectone.pdb
+C:\Users\User\source\repos\connectone\obj\Debug\connectone.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\connectone\obj\Debug\connectone.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\connectone\obj\Debug\connectone.Form1.resources
+C:\Users\User\source\repos\connectone\obj\Debug\connectone.Properties.Resources.resources
+C:\Users\User\source\repos\connectone\obj\Debug\connectone.csproj.GenerateResource.cache
+C:\Users\User\source\repos\connectone\obj\Debug\connectone.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\connectone\obj\Debug\connectone.exe
+C:\Users\User\source\repos\connectone\obj\Debug\connectone.pdb
+C:\Users\User\source\repos\connectone\obj\Debug\connectone.secondfrom.resources
+C:\Users\User\source\repos\connectone\obj\Debug\connectone.showpage.resources
+C:\Users\User\source\repos\connectone\obj\Debug\connectone.dashboardSidebar.resources
